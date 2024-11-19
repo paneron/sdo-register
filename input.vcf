@@ -1,0 +1,178 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:International Organization for Standardization;Organisation internationale de normalisation
+ORG:ISO;International Organization for Standardization;Organisation internationale de normalisation
+ADR:Chemin de Blandonnet 8;;CP 401;Vernier, Geneva;;1214;Switzerland
+TEL:+41 22 749 01 11
+FAX:+41 22 733 34 30
+EMAIL:central@iso.org
+URL:https://www.iso.org
+LOGO:https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100360.png
+CATEGORIES:Standards Body,International
+SOURCE:ISO Website
+DTSTART:20000101T000000Z
+DTEND:20230515T103000Z
+UID:iso-vcard-2000-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:International Electrotechnical Commission;Commission électrotechnique internationale
+ORG:IEC;International Electrotechnical Commission;Commission électrotechnique internationale
+ADR:Rue de Varembé 3;;Geneva;;1211;Switzerland
+TEL:+41 22 919 0211
+FAX:+41 22 919 0300
+EMAIL:info@iec.ch
+URL:https://www.iec.ch
+LOGO:https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IEC_logo.svg/1024px-IEC_logo.svg.png
+CATEGORIES:Standards Body,International,Electrotechnology
+SOURCE:IEC Website
+DTSTART:20100101T000000Z
+DTEND:20230515T103000Z
+UID:iec-vcard-2010-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:International Telecommunication Union - Telecommunication Standardization Sector;Union internationale des télécommunications - Secteur de la normalisation des télécommunications;Международный союз электросвязи - Сектор стандартизации электросвязи;联合国国际电信联盟电信标准化部门;الاتحاد الدولي للاتصالات - قطاع تقييس الاتصالات;Unión Internacional de Telecomunicaciones - Sector de Normalización de las Telecomunicaciones
+ORG:ITU-T;International Telecommunication Union;Union internationale des télécommunications;Международный союз электросвязи;联合国国际电信联盟;الاتحاد الدولي للاتصالات;Unión Internacional de Telecomunicaciones
+ADR:Place des Nations;;Geneva;;1211;Switzerland
+TEL:+41 22 730 5111
+EMAIL:tsbmail@itu.int
+URL:https://www.itu.int/en/ITU-T
+LOGO:https://www.itu.int/en/PublishingImages/itu-logo-theme-dark-blue.svg
+CATEGORIES:Standards Body,International,Telecommunications
+SOURCE:ITU Website
+DTSTART:19650301T000000Z
+DTEND:20230515T103000Z
+UID:itu-t-vcard-1965-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:European Telecommunications Standards Institute;Institut européen des normes de télécommunication
+ORG:ETSI;European Telecommunications Standards Institute;Institut européen des normes de télécommunication
+ADR:650 Route des Lucioles;;Sophia Antipolis;;06921;France
+TEL:+33 4 92 94 42 00
+EMAIL:info@etsi.org
+URL:https://www.etsi.org
+LOGO:https://www.etsi.org/images/logos/etsi_header_logo.svg
+CATEGORIES:Standards Body,International,Telecommunications
+SOURCE:ETSI Website
+DTSTART:20050101T000000Z
+DTEND:20230515T103000Z
+UID:etsi-vcard-2005-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:Institute of Electrical and Electronics Engineers
+ORG:IEEE;Institute of Electrical and Electronics Engineers,Incorporated
+ADR:445 Hoes Lane;;Piscataway;NJ;08854;USA
+TEL:+1 732 981 0060
+FAX:+1 732 562 1571
+EMAIL:contactcenter@ieee.org
+URL:https://www.ieee.org
+LOGO:https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg
+CATEGORIES:Standards Body,International,Electrical,Electronics
+SOURCE:IEEE Website
+DTSTART:19910101T000000Z
+DTEND:20230515T103000Z
+UID:ieee-vcard-1991-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:International Commission on Illumination
+ORG:CIE;International Commission on Illumination
+ADR:Rennweg 44;;Vienna;;1030;Austria
+TEL:+43 1 714 31 87
+EMAIL:ciecb@cie.co.at
+URL:https://cie.co.at/
+LOGO:https://cie.co.at/sites/default/files/logo.png
+CATEGORIES:Standards Body,International,Lighting
+SOURCE:CIE Website
+DTSTART:19130101T000000Z
+DTEND:20230515T103000Z
+UID:cie-vcard-1913-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:OASIS Open
+ORG:OASIS;Organization for the Advancement of Structured Information Standards
+ADR:3 Bethesda Metro Center;Suite 1100;Bethesda;MD;20814;USA
+TEL:+1 301-351-5817
+EMAIL:service@oasis-open.org
+URL:https://www.oasis-open.org/
+LOGO:https://www.oasis-open.org/www/sites/default/files/oasis-logo-300x115.png
+CATEGORIES:Standards Body,International,Information Technology
+SOURCE:OASIS Website
+DTSTART:19950101T000000Z
+DTEND:20230515T103000Z
+UID:oasis-vcard-1995-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:The Calendaring and Scheduling Consortium
+ORG:CalConnect
+ADR:P.O. Box 23572;;Anchorage;AK;99523;USA
+TEL:+1-202-870-5939
+EMAIL:manager@calconnect.org
+URL:https://www.calconnect.org/
+LOGO:https://www.calconnect.org/images/CalCo_horz_logo_500px.png
+CATEGORIES:Standards Body,International,Calendaring,Scheduling
+SOURCE:CalConnect Website
+DTSTART:20040101T000000Z
+DTEND:20230515T103000Z
+UID:calconnect-vcard-2004-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:3rd Generation Partnership Project
+ORG:3GPP
+ADR:ETSI;650 Route des Lucioles;;Sophia Antipolis;;06921;France
+TEL:+33 4 92 94 42 00
+EMAIL:info@3gpp.org
+URL:https://www.3gpp.org
+LOGO:https://www.3gpp.org/img/3gpp-logo.jpg
+CATEGORIES:Standards Body,International,Telecommunications,Mobile
+SOURCE:3GPP Website
+DTSTART:19981201T000000Z
+DTEND:20230515T103000Z
+UID:3gpp-vcard-1998-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:SAE International
+ORG:SAE;Society of Automotive Engineers
+ADR:400 Commonwealth Drive;;Warrendale;PA;15096;USA
+TEL:+1 877 606 7323
+EMAIL:customerservice@sae.org
+URL:https://www.sae.org
+LOGO:https://www.sae.org/images/SAE_MAIN_LOGO_RGB-cropped.png
+CATEGORIES:Standards Body,International,Automotive,Aerospace
+SOURCE:SAE Website
+DTSTART:19050101T000000Z
+DTEND:20230515T103000Z
+UID:sae-vcard-1905-2023
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+FN:ASTM International
+ORG:ASTM;American Society for Testing and Materials
+ADR:100 Barr Harbor Drive;;West Conshohocken;PA;19428;USA
+TEL:+1 610 832 9500
+EMAIL:service@astm.org
+URL:https://www.astm.org
+LOGO:https://www.astm.org/images/astm_logo_stacked_rgb_PMS2758.png
+CATEGORIES:Standards Body,International,Materials,Testing
+SOURCE:ASTM Website
+DTSTART:19950101T000000Z
+DTEND:20230515T103000Z
+UID:astm-vcard-1995-2023
+END:VCARD
