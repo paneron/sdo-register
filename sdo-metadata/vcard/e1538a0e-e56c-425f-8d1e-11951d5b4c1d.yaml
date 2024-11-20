@@ -1,0 +1,20 @@
+---
+id: e1538a0e-e56c-425f-8d1e-11951d5b4c1d
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:ASTM International
+  ORG:ASTM;American Society for Testing and Materials
+  ADR:100 Barr Harbor Drive;;West Conshohocken;PA;19428;USA
+  TEL:+1 610 832 9500
+  EMAIL:service@astm.org
+  URL:https://www.astm.org
+  LOGO:https://www.astm.org/images/astm_logo_stacked_rgb_PMS2758.png
+  CATEGORIES:Standards Body,International,Materials,Testing
+  SOURCE:ASTM Website
+  DTSTART:19950101T000000Z
+  DTEND:20230515T103000Z
+  UID:astm-vcard-1995-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:44.319723000 +08:00

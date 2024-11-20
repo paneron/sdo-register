@@ -1,0 +1,20 @@
+---
+id: e668a17b-ffa3-4412-923a-ad55963ac989
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:3rd Generation Partnership Project
+  ORG:3GPP
+  ADR:ETSI;650 Route des Lucioles;;Sophia Antipolis;;06921;France
+  TEL:+33 4 92 94 42 00
+  EMAIL:info@3gpp.org
+  URL:https://www.3gpp.org
+  LOGO:https://www.3gpp.org/img/3gpp-logo.jpg
+  CATEGORIES:Standards Body,International,Telecommunications,Mobile
+  SOURCE:3GPP Website
+  DTSTART:19981201T000000Z
+  DTEND:20230515T103000Z
+  UID:3gpp-vcard-1998-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:43.734131000 +08:00

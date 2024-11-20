@@ -1,0 +1,20 @@
+---
+id: 89a79922-cca8-4bf9-bf5a-dcec91ef55dc
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:International Commission on Illumination
+  ORG:CIE;International Commission on Illumination
+  ADR:Rennweg 44;;Vienna;;1030;Austria
+  TEL:+43 1 714 31 87
+  EMAIL:ciecb@cie.co.at
+  URL:https://cie.co.at/
+  LOGO:https://cie.co.at/sites/default/files/logo.png
+  CATEGORIES:Standards Body,International,Lighting
+  SOURCE:CIE Website
+  DTSTART:19130101T000000Z
+  DTEND:20230515T103000Z
+  UID:cie-vcard-1913-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:42.847440000 +08:00

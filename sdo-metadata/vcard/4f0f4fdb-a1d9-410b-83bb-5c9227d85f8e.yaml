@@ -1,0 +1,20 @@
+---
+id: 4f0f4fdb-a1d9-410b-83bb-5c9227d85f8e
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:OASIS Open
+  ORG:OASIS;Organization for the Advancement of Structured Information Standards
+  ADR:3 Bethesda Metro Center;Suite 1100;Bethesda;MD;20814;USA
+  TEL:+1 301-351-5817
+  EMAIL:service@oasis-open.org
+  URL:https://www.oasis-open.org/
+  LOGO:https://www.oasis-open.org/www/sites/default/files/oasis-logo-300x115.png
+  CATEGORIES:Standards Body,International,Information Technology
+  SOURCE:OASIS Website
+  DTSTART:19950101T000000Z
+  DTEND:20230515T103000Z
+  UID:oasis-vcard-1995-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:43.130462000 +08:00

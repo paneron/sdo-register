@@ -1,0 +1,20 @@
+---
+id: 1dc751f8-606b-4321-b022-893ab78e3bc0
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:European Telecommunications Standards Institute;Institut européen des normes de télécommunication
+  ORG:ETSI;European Telecommunications Standards Institute;Institut européen des normes de télécommunication
+  ADR:650 Route des Lucioles;;Sophia Antipolis;;06921;France
+  TEL:+33 4 92 94 42 00
+  EMAIL:info@etsi.org
+  URL:https://www.etsi.org
+  LOGO:https://www.etsi.org/images/logos/etsi_header_logo.svg
+  CATEGORIES:Standards Body,International,Telecommunications
+  SOURCE:ETSI Website
+  DTSTART:20050101T000000Z
+  DTEND:20230515T103000Z
+  UID:etsi-vcard-2005-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:42.205600000 +08:00

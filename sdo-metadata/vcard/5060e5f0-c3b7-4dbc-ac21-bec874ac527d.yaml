@@ -1,0 +1,21 @@
+---
+id: 5060e5f0-c3b7-4dbc-ac21-bec874ac527d
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:International Organization for Standardization;Organisation internationale de normalisation
+  ORG:ISO;International Organization for Standardization;Organisation internationale de normalisation
+  ADR:Chemin de Blandonnet 8;;CP 401;Vernier, Geneva;;1214;Switzerland
+  TEL:+41 22 749 01 11
+  FAX:+41 22 733 34 30
+  EMAIL:central@iso.org
+  URL:https://www.iso.org
+  LOGO:https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100360.png
+  CATEGORIES:Standards Body,International
+  SOURCE:ISO Website
+  DTSTART:20000101T000000Z
+  DTEND:20230515T103000Z
+  UID:iso-vcard-2000-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:41.326797000 +08:00

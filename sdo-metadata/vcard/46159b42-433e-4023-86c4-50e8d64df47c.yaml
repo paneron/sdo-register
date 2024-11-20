@@ -1,0 +1,20 @@
+---
+id: 46159b42-433e-4023-86c4-50e8d64df47c
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:SAE International
+  ORG:SAE;Society of Automotive Engineers
+  ADR:400 Commonwealth Drive;;Warrendale;PA;15096;USA
+  TEL:+1 877 606 7323
+  EMAIL:customerservice@sae.org
+  URL:https://www.sae.org
+  LOGO:https://www.sae.org/images/SAE_MAIN_LOGO_RGB-cropped.png
+  CATEGORIES:Standards Body,International,Automotive,Aerospace
+  SOURCE:SAE Website
+  DTSTART:19050101T000000Z
+  DTEND:20230515T103000Z
+  UID:sae-vcard-1905-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:44.025628000 +08:00

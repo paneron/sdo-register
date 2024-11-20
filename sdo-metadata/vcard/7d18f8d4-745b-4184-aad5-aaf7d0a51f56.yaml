@@ -1,0 +1,21 @@
+---
+id: 7d18f8d4-745b-4184-aad5-aaf7d0a51f56
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:International Electrotechnical Commission;Commission électrotechnique internationale
+  ORG:IEC;International Electrotechnical Commission;Commission électrotechnique internationale
+  ADR:Rue de Varembé 3;;Geneva;;1211;Switzerland
+  TEL:+41 22 919 0211
+  FAX:+41 22 919 0300
+  EMAIL:info@iec.ch
+  URL:https://www.iec.ch
+  LOGO:https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IEC_logo.svg/1024px-IEC_logo.svg.png
+  CATEGORIES:Standards Body,International,Electrotechnology
+  SOURCE:IEC Website
+  DTSTART:20100101T000000Z
+  DTEND:20230515T103000Z
+  UID:iec-vcard-2010-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:41.631032000 +08:00

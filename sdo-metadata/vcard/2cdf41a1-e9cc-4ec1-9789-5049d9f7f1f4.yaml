@@ -1,0 +1,20 @@
+---
+id: 2cdf41a1-e9cc-4ec1-9789-5049d9f7f1f4
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:The Calendaring and Scheduling Consortium
+  ORG:CalConnect
+  ADR:P.O. Box 23572;;Anchorage;AK;99523;USA
+  TEL:+1-202-870-5939
+  EMAIL:manager@calconnect.org
+  URL:https://www.calconnect.org/
+  LOGO:https://www.calconnect.org/images/CalCo_horz_logo_500px.png
+  CATEGORIES:Standards Body,International,Calendaring,Scheduling
+  SOURCE:CalConnect Website
+  DTSTART:20040101T000000Z
+  DTEND:20230515T103000Z
+  UID:calconnect-vcard-2004-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:43.411557000 +08:00

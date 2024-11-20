@@ -1,0 +1,20 @@
+---
+id: fe1584c4-e78d-4eee-a44b-a565b7184386
+data: |
+  BEGIN:VCARD
+  VERSION:4.0
+  FN:International Telecommunication Union - Telecommunication Standardization Sector;Union internationale des télécommunications - Secteur de la normalisation des télécommunications;Международный союз электросвязи - Сектор стандартизации электросвязи;联合国国际电信联盟电信标准化部门;الاتحاد الدولي للاتصالات - قطاع تقييس الاتصالات;Unión Internacional de Telecomunicaciones - Sector de Normalización de las Telecomunicaciones
+  ORG:ITU-T;International Telecommunication Union;Union internationale des télécommunications;Международный союз электросвязи;联合国国际电信联盟;الاتحاد الدولي للاتصالات;Unión Internacional de Telecomunicaciones
+  ADR:Place des Nations;;Geneva;;1211;Switzerland
+  TEL:+41 22 730 5111
+  EMAIL:tsbmail@itu.int
+  URL:https://www.itu.int/en/ITU-T
+  LOGO:https://www.itu.int/en/PublishingImages/itu-logo-theme-dark-blue.svg
+  CATEGORIES:Standards Body,International,Telecommunications
+  SOURCE:ITU Website
+  DTSTART:19650301T000000Z
+  DTEND:20230515T103000Z
+  UID:itu-t-vcard-1965-2023
+  END:VCARD
+status:
+dateAccepted: !ruby/object:DateTime 2024-11-21 05:48:41.929833000 +08:00
