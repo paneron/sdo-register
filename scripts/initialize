@@ -1,0 +1,92 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'paneron/register'
+require 'vcard'
+
+include Paneron::Register
+
+def normalize_file_ending(string)
+  string.chomp + "\n"
+end
+
+def info(message)
+  $stderr.puts "\e[1minfo\e[m: #{message}"
+end
+
+def warning(message)
+  $stderr.puts "\e[38;5;208mwarning\e[m: #{message}"
+end
+
+def error(message)
+  $stderr.puts "\e[31merror\e[m: #{message}"
+end
+
+def die(message)
+  error message
+  warning "Aborting."
+  exit 1
+end
+
+def populate(register)
+  register.title = "SDO Metadata Register"
+
+  data_set = register.spawn_data_set('sdo-metadata')
+
+  item_class = data_set.spawn_item_class('vcard')
+
+  vcards_input_filename = ARGV[0]
+  if vcards_input_filename.nil? || vcards_input_filename.empty?
+    vcards_input_filename = 'input.vcf'
+  end
+
+  if !File.readable?(vcards_input_filename)
+    die "The input file '#{vcards_input_filename}' is not readable."
+  end
+
+  info "Parsing vcards file '#{vcards_input_filename}'..."
+  big_vcards_file = File.read(vcards_input_filename)
+
+  vcards_files = big_vcards_file.split("\n\n")
+  vcards_files.map(&method(:normalize_file_ending)).each do |vcards_file|
+    strict_validation = false
+    vcard = Vcard.parse(vcards_file, '4.0', strict_validation)
+    errors = vcard.get_errors
+    if !errors.empty?
+      warning "Got vcard parse errors."
+      warning "The vcard:"
+      warning "----"
+      warning vcards_file
+      warning "----"
+      warning "The errors:"
+      warning errors
+      warning "Continuing anyway."
+    end
+
+    item = item_class.spawn_item
+    item.data = vcards_file
+    # pp item
+    # item.save
+  end
+
+  info "Saving register..."
+  register.save
+  info "Done!"
+end
+
+# def configure_git(register)
+#   register.git_url = "git@github.com:relaton/data-sdo-metadata.git"
+#   register.save
+# end
+
+def main
+  # puts `pwd`
+
+  register = Raw::Register.new('.')
+  populate(register)
+  # configure_git(register)
+end
+
+if __FILE__ == $0
+  main
+end
